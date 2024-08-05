@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imsakshii
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 👀 Passionate about writing code, solving problems, and building web components.
+- 🌱 Learning more about SFCC Full Stack developemnt
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
